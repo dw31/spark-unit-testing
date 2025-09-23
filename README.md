@@ -36,10 +36,6 @@ pip install -e .
 pip install -r requirements-test.txt
 ```
 
-### As a Package
-```bash
-pip install spark-df-utils
-```
 
 ## Usage Examples
 
