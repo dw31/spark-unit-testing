@@ -1,6 +1,6 @@
 # Spark DataFrame Utilities
 
-A comprehensive library of utility functions for PySpark DataFrames with automated testing via GitHub Actions.
+This project is meant to illustrate the testing of PySpark functions. It is a comprehensive library of utility functions for PySpark DataFrames with automated testing via GitHub Actions. 
 
 ## Features
 
