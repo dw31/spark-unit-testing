@@ -1,4 +1,4 @@
-# Spark DataFrame Testing
+# Spark Unit Testing
 
 This project is meant to illustrate the testing of PySpark functions. We use GitHub Actions to test a comprehensive library of utility functions for PySpark DataFrames. 
 
